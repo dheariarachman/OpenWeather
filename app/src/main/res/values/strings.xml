@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">OpenWeather</string>
+    <string name="hello_message">Sampurasun, Wilujeung Sumping</string>
+    <string name="input_your_name">Masukan Nama Anda</string>
+    <string name="login">Masuk</string>
+    <string name="hello">Hello</string>
+    <string name="postal_code">Masukan Kode Pos Anda</string>
 </resources>
